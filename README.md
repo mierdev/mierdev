@@ -2,3 +2,4 @@
 
 - 🐍 I'm currently learning Python 
 - 💻 Also working on building my portfolio
+- ❤ Open Source
