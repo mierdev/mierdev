@@ -1,5 +1,6 @@
-## Hello, my name is Miranda.
+## Hello, my name is Miranda :wave:
 
-- 🐍 I'm currently learning Python
-- 💻 Building Projects
-- ❤ Open Source
+- :mortar_board: I'm currently learning C# / .NET
+- :computer: Building Projects
+- :space_invader: Coding Games
+- :heart: Open Source
