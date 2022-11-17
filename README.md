@@ -1,5 +1,5 @@
 ## Hello, my name is Miranda :wave:
 
-- :mortar_board: I'm currently learning C++, C# / .NET and Pyton
-- :wrench: Also building cool projects and small games for fun
+- :snake: I'm currently learning Python
+- :wrench: Also building 3D stuff and small games for fun
 - :heart: Open Source
