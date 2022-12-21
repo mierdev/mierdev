@@ -1,5 +1,5 @@
 ## Hello, my name is Miranda :wave:
 
-- :snake: I'm currently learning Python
-- :wrench: Also building 3D stuff and small games for fun
+- :mortar_board: I'm currently learning Full Stack Development
+- :wrench: Also creating 3D stuff and building small games for fun
 - :heart: Open Source
