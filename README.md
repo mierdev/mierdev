@@ -1,7 +1,8 @@
 ## Hello, my name is Miranda :wave:
 
-- :mortar_board: I'm currently learning Full Stack Development
-- :heart: Open Source
+I'm currently learning Full Stack Development!
+
+❤️ Open Source
 
 <hr>
 
