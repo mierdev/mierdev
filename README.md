@@ -1,5 +1,9 @@
 ## Hello, my name is Miranda :wave:
 
 - :mortar_board: I'm currently learning Full Stack Development
-- :wrench: Also creating 3D stuff and building small games for fun
 - :heart: Open Source
+
+<hr>
+
+#### Stuff I'm learning:
+HTML5, CSS3, JavaScript, PHP, MySQL, Front End Frameworks (Angular, React, VueJS), Software Design (UML), Python, ISTQB Software Testing, Agile Scrum
