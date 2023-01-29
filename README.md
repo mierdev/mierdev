@@ -17,13 +17,4 @@ _Things I'm learning:_
 </div>
 
 <br><br>
-
----
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/@atypicalcoder"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
-  <a href="https://www.twitch.tv/atypicalcoder"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"></a>
-  <a href="https://dev.to/atypicalcoder"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge" alt="DEV Badge"></a>
-  <a href="https://www.atypicalcoder.com/"><img src="https://img.shields.io/badge/atypicalcoder.com-teal?style=for-the-badge" alt="Website Badge"></a>
-  <br>
-  ❤️ <strong>Open Source</strong>
-</div>
+❤️ <strong>Open Source</strong>
