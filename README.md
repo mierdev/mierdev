@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="250">
+  <img src="https://i.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.webp" width="150">
 </div>
 
 <div id="badges" align="center">
@@ -7,7 +7,15 @@
   <a href="https://www.twitch.tv/atypicalcoder"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"></a>
 </div>
 
-#### Things I'm learning:
+<br>
+
+---
+
+## Hello 😎
+
+I'm a fresh developer, currently learning Full Stack Development through online University. 
+
+_Things I'm learning:_
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,5 +29,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br>
+<br><br>
 ❤️ <strong>Open Source</strong>
