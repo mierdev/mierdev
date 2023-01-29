@@ -1,4 +1,4 @@
-# Hello 😎
+## Hello 😎
 
 I'm a fresh developer, currently learning Full Stack Development through online University. Just aiming to build some cool projects and see where it leads me.
 
