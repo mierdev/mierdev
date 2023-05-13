@@ -1,6 +1,6 @@
-## Hello 🙂
+## Hello 
 
-And thanks for visiting my GitHub page.
+And thanks for visiting my GitHub page 🙂
 
 _Things I'm learning:_
 <div id="languages">
