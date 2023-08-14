@@ -1,10 +1,6 @@
-## Hello 🙂
+**Hello!** 🙂
 
-And thanks for visiting my GitHub page!
-
-<br><br>
-
-_Things I'm learning:_
+Things I'm learning:
 <div id="languages">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/C4D_Logo.png/180px-C4D_Logo.png" title="Cinema 4D" alt="Cinema 4D" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="30" height="30"/>&nbsp;&nbsp;
