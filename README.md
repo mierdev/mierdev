@@ -2,6 +2,8 @@
 
 And thanks for visiting my GitHub page!
 
+<br><br>
+
 _Things I'm learning:_
 <div id="languages">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/C4D_Logo.png/180px-C4D_Logo.png" title="Cinema 4D" alt="Cinema 4D" width="30" height="30"/>&nbsp;&nbsp;
