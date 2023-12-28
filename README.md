@@ -1,4 +1,4 @@
-## Hi there! 🙂
+## Hi there! :blush:
 
 Things I'm learning: 
 <div id="languages">
