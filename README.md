@@ -2,7 +2,7 @@
 
 I have dabbled in coding several times over the past few years (mostly some HTML/CSS, Python and C# for Unity), so I'm no stranger to the joy of just building cool stuff 💻
 
-Currently I'm exploring software development in a broad spectrum, learning the fundamentals of programming and diving into a few languages to see which avenues interest me the most to pursue further.
+Currently I'm exploring software development in a broad spectrum, learning the fundamentals of programming and dipping my toes in a few languages to see which avenues interest me the most to pursue further.
 
 Things I'm learning: 
 <div id="languages">
