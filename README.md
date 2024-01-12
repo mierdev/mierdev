@@ -4,7 +4,7 @@ I have dabbled in coding several times over the past few years (mostly some Pyth
 
 Currently I'm exploring software development in a broad spectrum, learning the fundamentals of programming and dipping my toes in a few languages to see which avenues interest me most to pursue further.
 
-I'm also doing the #100DaysOfCode Challenge from freeCodeCamp! (👍started on Jan 3th)
+I'm also doing the #100DaysOfCode Challenge from freeCodeCamp! 👍*started on Jan 3th*
 
 Things I'm learning: 
 <div id="languages">
