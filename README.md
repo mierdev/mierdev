@@ -1,10 +1,10 @@
-## Hi there! :blush:
+## Hi there :blush:
 
-I have dabbled in coding several times over the past few years (mostly some Python, C# for Unity, and a little bit of HTML/CSS), so I'm no stranger to the joy of just building cool stuff 💻
+I have dabbled in coding several times over the past few years (mostly some Python, C# for Unity, and a little bit of HTML/CSS), so I'm no stranger to the joy of just building cool stuff! 💻
 
 Currently I'm exploring software development in a broad spectrum, learning the fundamentals of programming and dipping my toes in a few languages to see which avenues interest me most to pursue further.
 
-I'm also doing the #100DaysOfCode Challenge from freeCodeCamp! 👍*started on Jan 3th*
+I'm also doing the <a href="https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/">#100DaysOfCode Challenge from freeCodeCamp</a> ▶️ *started on Jan 3th 2024 and still going!*
 
 Things I'm learning: 
 <div id="languages">
