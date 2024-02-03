@@ -4,7 +4,7 @@ I have dabbled in coding several times over the past few years (mostly some Pyth
 
 Currently exploring all things software development, dipping my toes in a few languages.
 
-Most interested in backend development.
+Most interested in backend technologies.
 
 <hr>
 
