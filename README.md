@@ -8,13 +8,11 @@ Most interested in backend development.
 <hr>
 
 _Things I'm learning:_
-<div id="languages">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="25" height="25"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="25" height="25"/>
-</div>
+
+![Static Badge](https://img.shields.io/badge/HTML-tomato)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/CSS-blue)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/JavaScript-gold)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/SQL-grey)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Python-dodgerblue)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Golang-lightcyan)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Git-orangered)&nbsp;&nbsp;
