@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQEfv5G84NjLVQ/profile-displaybackgroundimage-shrink_350_1400/0/1706993791334?e=1712188800&v=beta&t=9wJIrZ279RgC1vZwBscGNiLPvcrJWL2IS_IlEai2oSY" />
+
 ## Hi there :blush:
 
 I have dabbled in coding several times over the past few years (mostly some Python, C# for Unity, and a little bit of HTML/CSS), so I'm no stranger to the joy of building cool stuff! 💻
