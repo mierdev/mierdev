@@ -1,12 +1,12 @@
-### Hi, I'm Miranda 👋
+### Hi, I'm Miranda
 
 I have dabbled in coding several times over the past few years (mostly some Python, C# for Unity, and a little bit of HTML/CSS), so I'm no stranger to the joy of building cool stuff!
 
-➡️ _Currently I'm exploring software development, dipping my toes in a few languages, mostly interested in backend development._
+Currently exploring all things software development, dipping my toes in a few languages, most interested in backend development.
 
 <hr>
 
-Things I'm learning: 
+_Things I'm learning:_
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="25" height="25"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="25" height="25"/>&nbsp;&nbsp;
