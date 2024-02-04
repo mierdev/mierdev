@@ -10,10 +10,10 @@ Most interested in backend technologies.
 
 _Things I'm learning:_
 
-![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)
-![Static Badge](https://img.shields.io/badge/Python-356f9f)
-![Static Badge](https://img.shields.io/badge/Go-79d4fd)
-![Static Badge](https://img.shields.io/badge/SQL-00618b)
-![Static Badge](https://img.shields.io/badge/HTML-f2672e)
-![Static Badge](https://img.shields.io/badge/CSS-30aadd)
-![Static Badge](https://img.shields.io/badge/Git-de4c36)
+<a href="">![Static Badge](https://img.shields.io/badge/Python-356f9f)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/Go-79d4fd)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/SQL-00618b)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/HTML-f2672e)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/CSS-30aadd)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/Git-de4c36)</a>
