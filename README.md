@@ -11,7 +11,7 @@ Most interested in backend technologies.
 _Things I'm learning:_
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)
-![Static Badge](https://img.shields.io/badge/Python-4786b8)
+![Static Badge](https://img.shields.io/badge/Python-356f9f)
 ![Static Badge](https://img.shields.io/badge/Go-79d4fd)
 ![Static Badge](https://img.shields.io/badge/SQL-00618b)
 ![Static Badge](https://img.shields.io/badge/HTML-f2672e)
