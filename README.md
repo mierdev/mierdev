@@ -14,6 +14,7 @@ _Things I'm learning:_
 <a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Go-79d4fd)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/SQL-00618b)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Bash-3e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/HTML-f2672e)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/CSS-30aadd)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Git-de4c36)</a>
