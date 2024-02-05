@@ -2,9 +2,9 @@
 
 I have dabbled in coding several times over the past few years (mostly some Python and C# for Unity), so I'm no stranger to the joy of building cool stuff!
 
-Currently exploring all things software development, dipping my toes in a few languages.
+Currently I'm exploring all things software development, dipping my toes in a few languages.
 
-Most interested in backend technologies.
+I am most interested in backend technologies.
 
 <hr>
 
