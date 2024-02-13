@@ -1,6 +1,6 @@
 ### Hi, I'm Miranda
 
-I have dabbled in coding several times over the past few years (mostly some Python and C# for Unity), so I'm no stranger to the joy of building cool stuff!
+I have dabbled in coding several times over the past few years so I'm no stranger to the joy of building cool stuff!
 
 Currently I'm exploring all things Software Development, dipping my toes in a few languages.
 
