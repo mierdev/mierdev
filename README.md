@@ -4,7 +4,7 @@ I have dabbled in coding several times over the past few years (mostly some Pyth
 
 Currently I'm exploring all things Software Development, dipping my toes in a few languages.
 
-I am most interested in: Backend Technologies, Databases, QA/Testing.
+I am most interested in backend technologies, data & databases, testing/QA.
 
 <hr>
 
