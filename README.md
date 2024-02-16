@@ -9,16 +9,16 @@ I am most interested in backend technologies, data tools & pipelines, testing/QA
 
 _Things I'm learning:_
 
-<a href="#">![Static Badge](https://img.shields.io/badge/Software_Testing-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Quality_Assurance-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Databases-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Git-9b59d0)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Software_Testing-3e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Quality_Assurance-3e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-3e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Databases-3e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Git-3e474a)</a>
 
 <a href="#">![Static Badge](https://img.shields.io/badge/Python-356f9f)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Golang-79d4fd)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/SQL-00618b)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Bash-3e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Bash-9b59d0)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/HTML-f2672e)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/CSS-30aadd)</a>
