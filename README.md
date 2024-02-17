@@ -3,7 +3,7 @@
 I have dabbled in coding several times over the past few years so I'm no stranger to the joy of building cool stuff!
 
 Currently I'm exploring all things software development, dipping my toes in a few languages.<br>
-I am most interested in backend technologies, data tools & pipelines, testing/QA.
+I am most interested in backend technologies, testing/QA, data tools & pipelines.
 
 <hr>
 
