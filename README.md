@@ -20,5 +20,3 @@ _Things I'm learning:_
 <a href="#">![Static Badge](https://img.shields.io/badge/Golang-79d4fd)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/SQL-00618b)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Bash-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/HTML-f2672e)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/CSS-30aadd)</a>
