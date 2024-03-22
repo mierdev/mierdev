@@ -1,6 +1,6 @@
 ### Hi, I'm Miranda
 
-I have dabbled in coding several times over the past few years so I'm no stranger to the joy of building cool stuff!
+I am experienced at QA and project planning in a technical work environment, but I'm happy to learn any new tool or skill best suited for the job. I love problem solving. Every "problem" is just a challenge with many solutions!
 
 Currently I'm exploring all things software development, dipping my toes in a few languages.<br>
 I am most interested in backend technologies, testing/QA, data tools & pipelines.
