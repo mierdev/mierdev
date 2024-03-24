@@ -8,9 +8,9 @@ I am most interested in backend technologies, testing/QA, data tools & pipelines
 
 _Things I'm learning:_
 
+<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-3e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Software_Testing-3e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Quality_Assurance-3e474a)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-3e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Data_Tools-3e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Git-3e474a)</a>
 
