@@ -13,5 +13,5 @@ _Things I'm Currently learning:_
 <a href="#">![Static Badge](https://img.shields.io/badge/Golang-79d4fd)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/SQL-00618b)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Bash-9b59d0)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-1e474a)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Backend_Development-2e474a)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Git-1e774c)</a>
