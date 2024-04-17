@@ -6,7 +6,7 @@ Interested in backend technologies, testing/QA, CLI tools and automation.
 
 <hr>
 
-_Things I'm Currently learning:_
+_Things I'm currently learning:_
 
 <a href="#">![Static Badge](https://img.shields.io/badge/Python-356f9f)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-f2bf26)</a>
