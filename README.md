@@ -5,8 +5,8 @@ I am experienced at QA and project planning in a technical work environment, but
 <hr>
 
 **Interested in:**<br>
-- <a href="#">![Static Badge](https://img.shields.io/badge/Software_development-seagreen)</a>
-- <a href="#">![Static Badge](https://img.shields.io/badge/Backend_technologies-seagreen)</a>
-- <a href="#">![Static Badge](https://img.shields.io/badge/Automation-seagreen)</a>
-- <a href="#">![Static Badge](https://img.shields.io/badge/Testing/QA-seagreen)</a>
-- <a href="#">![Static Badge](https://img.shields.io/badge/CLI_tools-seagreen)</a>
+- <a href="#">![Static Badge](https://img.shields.io/badge/Software_development-teal)</a>
+- <a href="#">![Static Badge](https://img.shields.io/badge/Backend_technologies-teal)</a>
+- <a href="#">![Static Badge](https://img.shields.io/badge/Automation-teal)</a>
+- <a href="#">![Static Badge](https://img.shields.io/badge/Testing/QA-teal)</a>
+- <a href="#">![Static Badge](https://img.shields.io/badge/CLI_tools-teal)</a>
