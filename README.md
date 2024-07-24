@@ -4,4 +4,4 @@ I am experienced at QA and project planning in a technical work environment, but
 
 <br>
 
-<a href="#">![Static Badge](https://img.shields.io/badge/Interested_in:-software_development,_backend_technologies,_testing/QA,_CLI_tools_and_automation.-blue)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Interested_in:-software_development,_backend_technologies,_testing/QA,_CLI_tools_and_automation.-seagreen)</a>
