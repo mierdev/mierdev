@@ -7,4 +7,3 @@ I am experienced at QA and project planning in a technical work environment, but
 - <a href="#">![Static Badge](https://img.shields.io/badge/Backend_technologies-teal)</a>
 - <a href="#">![Static Badge](https://img.shields.io/badge/Automation-teal)</a>
 - <a href="#">![Static Badge](https://img.shields.io/badge/Testing/QA-teal)</a>
-- <a href="#">![Static Badge](https://img.shields.io/badge/CLI_tools-teal)</a>
