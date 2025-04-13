@@ -1,4 +1,4 @@
-# Hi, I'm Miranda 😎
+# Hi there 😎
 
 I like building things that solve a problem. Diving into the rabbit hole and exploring all options to see what works. I find this really satisfying. Whether it's yours, theirs or mine, a problem is just a challenge with many solutions!
 
