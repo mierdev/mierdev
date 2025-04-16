@@ -4,6 +4,8 @@ I like building things to solve a problem. Diving into the rabbit hole and explo
 
 Or coding just for fun, that works too.
 
+<br>
+
 ### Skills:
 <img src="https://skillicons.dev/icons?i=py,html,css,git" />
 
