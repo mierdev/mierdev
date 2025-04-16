@@ -5,10 +5,10 @@ I like building things to solve a problem. Diving into the rabbit hole and explo
 Or coding just for fun, that works too.
 
 ## Skills:
-<img src="https://skillicons.dev/icons?i=py,js,html,css,git" />
+<img src="https://skillicons.dev/icons?i=py,html,css,git" />
 
 ## Learning:
-<img src="https://skillicons.dev/icons?i=ts,nodejs,php,mysql,sqlite,docker" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,mysql,sqlite,docker" />
 
 ## Hobby:
 <img src="https://skillicons.dev/icons?i=blender,godot,arduino" />
