@@ -8,7 +8,7 @@ Or coding just for fun, that works too.
 <img src="https://skillicons.dev/icons?i=py,html,css,git" />
 
 ## Learning:
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,mysql,sqlite,docker" />
+<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,php,mysql,sqlite,docker" />
 
 ## Hobby:
 <img src="https://skillicons.dev/icons?i=blender,godot,arduino" />
