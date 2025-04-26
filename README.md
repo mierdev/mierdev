@@ -4,14 +4,22 @@ I like building things to solve a problem. Diving into the rabbit hole and explo
 
 Or coding just for fun, that works too.
 
-## Skills:
+## 
+**Skills**
+
 <img src="https://skillicons.dev/icons?i=py,html,css,git" />
 
-## Learning:
+## 
+**Learning**
+
 <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,php,mysql,sqlite,docker" />
 
-## Hobby:
+## 
+**Hobby**
+
 <img src="https://skillicons.dev/icons?i=blender,godot,arduino" />
 
-## Interested in:
+##
+**Interested in**
+
 <a href="#">![Static Badge](https://img.shields.io/badge/Software_development-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Backend_technologies-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Automation-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Testing/QA-242938)</a>
