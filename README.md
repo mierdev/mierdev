@@ -12,12 +12,12 @@ Or coding just for fun, that works too.
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,php,mysql,sqlite,docker" />
+<img src="https://skillicons.dev/icons?i=ts,go,php,mysql,sqlite,docker,githubactions,react,django" />
 
 ## 
 **Hobby**
 
-<img src="https://skillicons.dev/icons?i=blender,godot,arduino" />
+<img src="https://skillicons.dev/icons?i=blender,godot" />
 
 ##
 **Interested in**
