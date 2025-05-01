@@ -12,7 +12,7 @@ Or coding just for fun, that works too.
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=cs,net,ts,js,php,mysql,sqlite,docker,githubactions,django,laravel,react" />
+<img src="https://skillicons.dev/icons?i=cs,net,ts,js,nodejs,react,php,laravel,mysql,sqlite,docker,githubactions,django" />
 
 ## 
 **Hobby**
