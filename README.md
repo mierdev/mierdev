@@ -17,7 +17,7 @@ Or coding just for fun, that works too.
 ## 
 **Hobby**
 
-<img src="https://skillicons.dev/icons?i=blender,godot" />
+<img src="https://skillicons.dev/icons?i=blender" />&nbsp;&nbsp;&nbsp;<img src="https://www.pygame.org/docs/_static/pygame_tiny.png" height="40px"/>
 
 ##
 **Interested in**
