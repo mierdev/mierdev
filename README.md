@@ -7,12 +7,12 @@ Or coding just for fun, that works too.
 ## 
 **Skills**
 
-<img src="https://skillicons.dev/icons?i=py,html,css,git" />
+<img src="https://skillicons.dev/icons?i=py,git" />
 
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,sqlite,docker,githubactions,nodejs,vue,nuxtjs,django" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,sqlite,docker,githubactions,qt,electron,nodejs,jest" />
 
 ## 
 **Hobby**
