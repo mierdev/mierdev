@@ -14,11 +14,6 @@ Or coding just for fun, that works too.
 
 <img src="https://skillicons.dev/icons?i=go,ts,js,postgres,sqlite,docker,githubactions,qt,electron,nodejs,jest" />
 
-## 
-**Hobby**
-
-<img src="https://www.pygame.org/docs/_static/pygame_tiny.png" height="36px"/>
-
 ##
 **Interested in**
 
