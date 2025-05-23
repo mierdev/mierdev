@@ -12,7 +12,7 @@ Or coding just for fun, that works too.
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,sqlite,docker,githubactions,django,nodejs,nextjs,react,jest" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,docker,githubactions,fastapi,nodejs,nextjs,react,jest" />
 
 ##
 **Interested in**
