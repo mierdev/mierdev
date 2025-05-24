@@ -12,8 +12,8 @@ Or coding just for fun, that works too.
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions" />
-<img src="https://skillicons.dev/icons?i=fastapi,spring,react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=ts,js,cs,postgres,mongodb,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,nextjs,nodejs" />
 
 ## 
 **Hobby**
