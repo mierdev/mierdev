@@ -12,7 +12,12 @@ Or coding just for fun, that works too.
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,docker,githubactions,fastapi,nodejs,nextjs,react,jest" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,postgres,docker,githubactions" />
+
+## 
+**Hobby**
+
+<img src="https://raw.githubusercontent.com/pygame-community/pygame-ce/main/docs/reST/_static/pygame_ce_logo.svg" width="100px" />
 
 ##
 **Interested in**
