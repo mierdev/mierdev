@@ -15,11 +15,6 @@ Or coding just for fun, that works too.
 <img src="https://skillicons.dev/icons?i=ts,js,cs,postgres,mongodb,docker,githubactions" />
 <img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,nextjs,nodejs" />
 
-## 
-**Hobby**
-
-<img src="https://raw.githubusercontent.com/pygame-community/pygame-ce/main/docs/reST/_static/pygame_ce_logo.svg" width="100px" />
-
 ##
 **Interested in**
 
