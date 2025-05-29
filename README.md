@@ -6,8 +6,8 @@
 ## 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=ts,js,cs,postgres,mongodb,docker,githubactions" />
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,dotnet" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,postgres,mongodb,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,spring" />
 
 ##
 **Interested in**
