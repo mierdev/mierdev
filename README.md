@@ -1,6 +1,6 @@
-# Hello! 😎
+# Hello 😎
 
-I like solving problems. Or coding just for fun, that works too.
+I'm having a great time solving problems!
 
 ## 
 **Skills**
