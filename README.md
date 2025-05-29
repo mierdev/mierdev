@@ -1,6 +1,4 @@
-Having a great time solving problems!
-
-##
+#
 **Skills**
 
 <img src="https://skillicons.dev/icons?i=py,git" />
