@@ -1,8 +1,6 @@
-# Hello 😎
+Having a great time solving problems!
 
-I'm having a great time solving problems!
-
-## 
+##
 **Skills**
 
 <img src="https://skillicons.dev/icons?i=py,git" />
