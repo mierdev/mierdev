@@ -2,13 +2,13 @@
 
 <img src="https://skillicons.dev/icons?i=py,git" />
 
-<hr> 
+<br> 
 
 **Learning**
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nextjs,nodejs,spring" />
 
-<hr> 
+<br> 
 
 **Interested in**
 
