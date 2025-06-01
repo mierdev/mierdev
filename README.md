@@ -6,7 +6,7 @@
 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nextjs,nodejs,spring,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nodejs,spring,html,css" />
 
 <br> 
 
