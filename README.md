@@ -1,3 +1,12 @@
+# Hi, I'm Miranda
+
+- 🖥️ I've made art & things on my computer since high school (with some breaks in between)
+- 🤓 I have been learning programming and building projects for 2+ years
+- ⚡ Interested in software development, back-end technologies, automation, QA / software testing
+- 🐍 My next summer project will be building a small game with the pygame framework
+
+<br> 
+
 **Skills**
 
 <img src="https://skillicons.dev/icons?i=py,git" />
@@ -7,9 +16,3 @@
 **Learning**
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nodejs,spring,html,css" />
-
-<br> 
-
-**Interested in**
-
-<a href="#">![Static Badge](https://img.shields.io/badge/Software_development-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Backend_technologies-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Automation-242938)</a> <a href="#">![Static Badge](https://img.shields.io/badge/Testing/QA-242938)</a>
