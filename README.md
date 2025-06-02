@@ -9,10 +9,10 @@
 
 **Skills**
 
-<img src="https://skillicons.dev/icons?i=py,git" />
+<a href="#"><img height="42px" src="https://skillicons.dev/icons?i=py,git" /></a>
 
 <br> 
 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nodejs,spring,html,css" />
+<a href="#"><img height="42px" src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions,fastapi,react,nodejs,spring,html,css" /></a>
