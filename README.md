@@ -1,6 +1,6 @@
 # Hi, I'm Miranda
 
-- 🖥️ I've made art, games and webistes on my computer since high school (with some breaks in between)
+- 🖥️ I've made 3D art, small games and webistes since high school (with some breaks in between)
 - 🤓 I have been learning programming and building projects for 2+ years
 - ⚡ Interested in software development, back-end technologies, automation, QA / software testing
 - 🐍 My next summer project will be building a small game with the pygame framework
