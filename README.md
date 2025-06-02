@@ -1,4 +1,4 @@
-# Hi, I'm Miranda
+### Hi, I'm Miranda
 
 - 🖥️ I've been creating art & things on my computer since high school (with some breaks in between)
 - 🤓 I am learning programming and have been building projects for 2+ years
