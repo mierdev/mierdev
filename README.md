@@ -1,7 +1,7 @@
 ### Hi, I'm Miranda
 
 - 🖥️ I've been creating art & things on my computer since high school
-- 🤓 Currently learning programming and building projects for 2+ years
+- 🤓 Currently building projects and honing my programming skills for 2+ years
 - ⚡ Interested in software development, back-end technologies, automation, QA/testing
 - 🐍 My next summer project will be building a small game with the pygame framework
 
