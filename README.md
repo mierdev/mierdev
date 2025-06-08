@@ -1,19 +1,18 @@
-### Hi, I'm Miranda
+# Hi, I'm Miranda
 
 - 🖥️ I've been creating art & things on my computer since high school
 - 🤓 Currently building projects and honing my programming skills for 2+ years
 - ⚡ Interested in software development, back-end technologies, automation, QA/testing
 - 🐍 My next summer project will be building a small game with the pygame framework
 
-<br> 
+## Skills
 
-**Skills**
+- **Programming languages:**&nbsp;&nbsp;Python
+- **Tools:**&nbsp;&nbsp;Git
 
-<a href="#"><img height="44px" src="https://skillicons.dev/icons?i=py,git" /></a>
+## Learning
 
-<br> 
-
-**Learning**
-
-<a href="#"><img height="44px" src="https://skillicons.dev/icons?i=ts,js,java,postgres,docker,githubactions" /></a>
-<a href="#"><img height="44px" src="https://skillicons.dev/icons?i=fastapi,react,nodejs,spring,html,css" /></a>
+- **Programming languages:**&nbsp;&nbsp;Java, Go, TypeScript, JavaScript, HTML/CSS
+- **Frameworks:**&nbsp;&nbsp;Spring, React, Next.JS, Fastapi
+- **Database/runtimes:**&nbsp;&nbsp;PostgreSQL, Node.JS
+- **Tools:**&nbsp;&nbsp;Docker, GitHub Actions
