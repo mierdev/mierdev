@@ -12,8 +12,7 @@
 
 ## Learning
 
-- **Programming languages:**&nbsp;&nbsp;Java, Go
-- **Front-end:**&nbsp;&nbsp;TypeScript, JavaScript, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;Spring, React, Fastapi
+- **Programming languages:**&nbsp;&nbsp;Java, TypeScript, JavaScript, HTML/CSS
+- **Frameworks:**&nbsp;&nbsp;Spring, React, Next.JS, Fastapi
 - **Database/runtimes:**&nbsp;&nbsp;SQL, PostgreSQL, Node.JS
 - **Tools:**&nbsp;&nbsp;Docker, GitHub Actions
