@@ -16,3 +16,8 @@
 - **Frameworks:**&nbsp;&nbsp;Spring, React, Next.JS, Fastapi
 - **Database/runtimes:**&nbsp;&nbsp;SQL, PostgreSQL, Node.JS
 - **Tools:**&nbsp;&nbsp;Docker, GitHub Actions
+
+## Learning back-end development progress
+<p align="left">
+  <a href="#"><img src="https://api.boot.dev/v1/users/public/2a980da7-94f2-4384-bebf-6541c1c3a7f5/thumbnail" ></a>
+</p>
