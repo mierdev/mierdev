@@ -10,13 +10,13 @@ I am experienced at QA and project planning in a technical work environment, but
 ## Skills
 
 - **Programming languages:**&nbsp;&nbsp;Python, JavaScript
-- **Frameworks:**&nbsp;&nbsp;Express.JS
+- **Frameworks:**&nbsp;&nbsp;Express.js
 - **Databases/runtimes:**&nbsp;&nbsp;MongoDB
 - **Tools:**&nbsp;&nbsp;Git
 
 ## Learning
 
 - **Programming languages:**&nbsp;&nbsp;TypeScript, Java, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;Next.JS, Springboot, React
-- **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, MongoDB, Node.JS
+- **Frameworks:**&nbsp;&nbsp;Next.js, Springboot, React
+- **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, MongoDB, Node.js
 - **Tools:**&nbsp;&nbsp;Docker, GitHub Actions
