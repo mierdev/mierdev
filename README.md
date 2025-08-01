@@ -9,7 +9,7 @@ I am experienced at QA and project planning in a technical work environment, but
 
 ## Skills
 
-- **Programming languages:**&nbsp;&nbsp;Python, JavaScript
+- **Programming languages:**&nbsp;&nbsp;JavaScript, Python
 - **Frameworks:**&nbsp;&nbsp;Express.js
 - **Databases/runtimes:**&nbsp;&nbsp;MongoDB
 - **Tools:**&nbsp;&nbsp;Git
