@@ -17,6 +17,6 @@ I am experienced at QA and project planning in a technical work environment, but
 ## Learning
 
 - **Programming languages:**&nbsp;&nbsp;TypeScript, Java, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;Next.js, Springboot, React
+- **Frameworks:**&nbsp;&nbsp;Next.js, React, Three.js, Springboot
 - **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, Node.js
 - **Tools:**&nbsp;&nbsp;Docker, GitHub Actions
