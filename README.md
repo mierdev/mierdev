@@ -13,7 +13,7 @@ I am experienced at QA and project planning in a technical work environment, but
 
 ## Learning
 
-- **Programming languages:**&nbsp;&nbsp;C++, Java, JavaScript, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;FastAPI, React, Springboot
+- **Programming languages:**&nbsp;&nbsp;C, Java, JavaScript, HTML/CSS
+- **Frameworks:**&nbsp;&nbsp;.NET, React, Springboot
 - **Databases/runtimes:**&nbsp;&nbsp;MongoDB
 - **Tools:**&nbsp;&nbsp;Docker
