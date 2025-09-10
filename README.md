@@ -15,5 +15,5 @@ I am experienced at QA and project planning in a technical work environment, but
 
 - **Programming languages:**&nbsp;&nbsp;C#, Java, JavaScript, HTML/CSS
 - **Frameworks:**&nbsp;&nbsp;.NET, React, Springboot
-- **Databases/runtimes:**&nbsp;&nbsp;MongoDB
-- **Tools:**&nbsp;&nbsp;Docker
+- **Databases/runtimes:**&nbsp;&nbsp;SQLite
+- **Tools:**&nbsp;&nbsp;GitHub Actions, Docker
