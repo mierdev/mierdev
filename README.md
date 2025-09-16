@@ -13,7 +13,7 @@ I am experienced at QA and project planning in a technical work environment, but
 
 ## Learning
 
-- **Programming languages:**&nbsp;&nbsp;C#, Java, JavaScript, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;.NET, React, Springboot
-- **Databases/runtimes:**&nbsp;&nbsp;SQLite
+- **Programming languages:**&nbsp;&nbsp;C#, PHP, JavaScript, HTML/CSS
+- **Frameworks:**&nbsp;&nbsp;.NET, React
+- **Databases/runtimes:**&nbsp;&nbsp;SQLite, MySQL
 - **Tools:**&nbsp;&nbsp;GitHub Actions, Docker
