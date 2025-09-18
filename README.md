@@ -16,4 +16,4 @@ I am experienced at QA and project planning in a technical work environment, but
 - **Programming languages:**&nbsp;&nbsp;C#, PHP, JavaScript, HTML/CSS
 - **Frameworks:**&nbsp;&nbsp;.NET, React
 - **Databases/runtimes:**&nbsp;&nbsp;SQLite, MySQL
-- **Tools:**&nbsp;&nbsp;GitHub Actions, Docker
+- **Tools:**&nbsp;&nbsp;GitHub Actions, Docker, UML
