@@ -20,4 +20,4 @@ I am experienced at QA and project planning in a technical work environment, but
 
 ##
 
-<div align="center"><i>I ♥️ Open Source - big fan of Godot & Blender</i></div>
+<div align="right"><i>I ♥️ Open Source - big fan of Godot & Blender</i></div>
