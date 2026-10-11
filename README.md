@@ -1,22 +1,22 @@
-# Hi there, I'm Miranda :wave:
+<div align="center"><img src="https://github.com/mierdev/mierdev/blob/main/donuts.png"></div>
+<br>
 
-I am a Project Manager and Quality Coordinator with extensive experience in a technical work environment.<br>
-Learning Realtime VFX and programming for fun!
+# Building chaos with C++ / raylib & aseprite 🔥
 
-- ✨ Creating Realtime VFX with Unreal Engine
-- 🤓 Currently learning C# / .NET
+Quality Manager & planner by day, hobbyist programmer by night. Just looking for ways to create chaos on my computer.
+
+- 🤓 Currently learning C++ / raylib for fun!
+- ✏️ Drawing pixel art with aseprite
 - 🏆 [2nd place winner](https://blog.boot.dev/news/hackathon-2025/) at the Boot.dev Hackathon 2025 - project 'Codemon'
 
-## Skills
+## Skills (?)
 
-- Python, Git
-- Unreal Engine, Blender, Krita
+- C++
+- Python
+- Git
 
-## Learning
+## Tools
 
-- C#
-- Houdini, Substance Designer
-
-##
-
-<div align="right"><i>♥️ Open Source</i></div>
+- raylib
+- aseprite
+- JetBrain IDE (CLion & PyCharm)
