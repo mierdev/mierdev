@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/mierdev/mierdev/blob/main/donuts.png"></div>
 <br>
 
-# Building chaos with C++ / raylib & aseprite 🔥
+# Building chaos 🔥
 
 Quality manager & planner by day, hobbyist programmer by night. Just looking for ways to create chaos on my computer...
 
