@@ -3,7 +3,7 @@
 
 # Building chaos with C++ / raylib & aseprite 🔥
 
-Quality Manager & planner by day, hobbyist programmer by night. Just looking for ways to create chaos on my computer.
+Quality manager & planner by day, hobbyist programmer by night. Just looking for ways to create chaos on my computer...
 
 - 🤓 Currently learning C++ / raylib for fun!
 - ✏️ Drawing pixel art with aseprite
