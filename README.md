@@ -3,7 +3,9 @@
 
 # Building chaos with Godot & Blender 🔥
 
-Quality manager & planner by day, game dev by night. Just looking for ways to create chaos on my computer...
+**Planner by day // Game Dev by night** 🦇
+
+Just looking for ways to create chaos on my computer...
 
 - 🤓 Currently learning Godot for fun!
 - 🐵 Making 3D mad with Blender
